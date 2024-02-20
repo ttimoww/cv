@@ -29,7 +29,7 @@ export const RESUME_DATA = {
   },
   education: [
     {
-      school: "Hogeschool Windesheim",
+      school: "Hogeschool Windesheim (Deeltijd)",
       degree: "Bachelor's Degree in Software Engineering (HBO-ICT) - Eindcijfer: 9,0",
       start: "2021",
       end: "2023",
