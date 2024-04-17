@@ -9,7 +9,7 @@ export const RESUME_DATA = {
     "Ondernemende en assertieve software engineer met een grote passie voor TypeScript, ReactJS en NextJS.",
   summary:
     "Als Full Stack Engineer combineer ik technische expertise met een ondernemende mindset om tot innovatieve oplossingen te komen. Met meer dan 5 jaar professionele ervaring en het opzetten van een eigen SaaS bedrijf ben ik in staat om complexe problemen te vertalen naar schaalbare en onderhoudbare software.",
-  avatarUrl: "https://media.licdn.com/dms/image/D4E03AQHnjvvXaI5HyA/profile-displayphoto-shrink_800_800/0/1679595541528?e=1712793600&v=beta&t=2HIhEtAIqKocFezB-a-jls7x_ORc8-kRd1vF62NDSmw",
+  avatarUrl: "/timo.png",
   personalWebsiteUrl: "https://timowernars.nl",
   contact: {
     email: "ttimoww@gmail.com",
@@ -57,7 +57,13 @@ export const RESUME_DATA = {
       start: "2019",
       end: "heden",
       description:
-        "Als Software Engineer bij Goedgemerkt speel ik een rol in de ontwikkeling en optimalisatie van zowel front-end als back-end systemen. Ik ben verantwoordelijk voor het ontwikkelen, verbeteren en bijhouden van de webshop, interne productiesystemen en innovatieve marketingtools. Deze werkzaamheden dragen direct bij aan de efficiëntie van bedrijfsprocessen en de versterking van onze online aanwezigheid.",
+        "Verantwoordelijk voor de ontwikkeling van een e-commerce webshop met Next.js, en interne productiesystemen met React en Nest.js",
+      list: ["Meertalige e-commerce website met Next.js",
+        "Integreren van headless CMS systemen (Strapi en BigCommerce)",
+        "Implementeren van betaalproviders (Stripe en PayPal)",
+        "Ontwikkelen van interfaces voor interne productiesystemen met React.js",
+        "Ontwikkelen van API’s voor interne productiesystemen met Nest.js",
+        "Automatiseren van CI/CD met behulp van GitLab",]
     },
     {
       company: "HutsAIO",
@@ -68,7 +74,10 @@ export const RESUME_DATA = {
       start: "2020",
       end: "2023",
       description:
-        "Als oprichter van HutsAIO, een geavanceerde automatiseringstool voor de aankoop van gelimiteerde sneakers uit diverse online winkels, heb ik binnen twee jaar een klantenbasis van meer dan 100 abonnees opgebouwd. Middels de inzet van mijn software zijn er meer dan 2000 paar sneakers aangeschaft.",
+        "Opzetten, ontwikkelen, en opschalen van een SaaS voor het aankopen van gelimiteerde sneakers (automatiseringssoftware). Binnen twee jaar een klantenbasis van meer dan 100 betalende klanten opgebouwd. Middels de inzet van deze software zijn er meer dan 2000 paar sneakers aangeschaft.",
+      list: ["Ontwikkelen van een gebruikersinterface met React.js (react-router)",
+        "Authenticatie en facturatie met Nest.js en Stripe",
+        "Ontwikkelen van automatiseringsscripts in TypeScript",]
     }
   ],
   skills: [
@@ -79,6 +88,10 @@ export const RESUME_DATA = {
     "NestJS",
     "Tailwind CSS",
     "PostgreSQL",
+    "TypeORM",
+    "GitLab CI/CD",
+    "Prisma",
+    "Shadcn/ui"
   ],
   projects: [
     {
